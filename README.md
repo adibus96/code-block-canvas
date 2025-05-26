@@ -53,7 +53,7 @@ An interactive digital whiteboard for visualizing code structures and program fl
 src/
 ├── components/
 │   ├── Canvas.vue      # Main canvas component
-│   └── CodeBlock.vue   # Individual code block component
+│   └── CodeBlockGroup.vue   # Individual code block component
 ├── App.vue             # Root application component
 └── main.js            # Application entry point
 ```
