@@ -18,7 +18,10 @@
     "konva": "^9.3.0",
     "prismjs": "^1.29.0",
     "vue": "^3.3.11",
-    "vue-konva": "^3.0.2"
+    "vue-konva": "^3.0.2",
+    "bezier-js": "^6.1.4",
+    "html-to-image": "^1.11.11",
+    "file-saver": "^2.0.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.0",
