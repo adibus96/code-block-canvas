@@ -1,0 +1,22 @@
+{
+  "name": "notepad-white",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^13.2.0",
+    "konva": "^9.3.20",
+    "prismjs": "^1.30.0",
+    "vue": "^3.5.13",
+    "vue-konva": "^3.2.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.3.5"
+  }
+}
